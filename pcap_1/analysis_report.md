@@ -2,7 +2,8 @@ Infected Host Details:
 
 
 ## Indicators Of Compromise
-1. The domain name in the http request URL is an  IP address.       from 10.0.0.149 to
+1. The domain name in the http request URL  hxxp[://]128[.]254[.]207[.]55/86607[.]dat
+  is an  IP address.       from 10.0.0.149 to
 
 2. The GET request was made to a dat file
 
@@ -10,7 +11,7 @@ Infected Host Details:
 
 4. In the body of the HTTP stream of the GET request, the victim downloaded a windows executable file with the file signataure MZ.
 - File name: 86607.dat
-- Hash: 
+- Hash: 713207d9d9875ec88d2f3a53377bf8c2d620147a4199eb183c13a7e957056432
 
 5. 55 virustotal security vendors flagged the dat file as malicious
 
