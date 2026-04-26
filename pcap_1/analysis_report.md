@@ -9,10 +9,10 @@ Infected Host Details:
 3. In the HTTP stream of the GET request, the  User-Agent is "curl". Typically an end user will never have "curl" as thier User-Agent unless they execute some script either knowingly or unknowingly.
 
 4. In the body of the HTTP stream of the GET request, the victim downloaded a windows executable file with the file signataure MZ.
-- File name:
+- File name: 86607.dat
 - Hash: 
 
-5. --- virustotal scurity vendors flagged the dat file as malicious
+5. 55 virustotal security vendors flagged the dat file as malicious
 
 6. Malwarebazaar idenfied the file hash to be associated with the Quakbot malware family'.
 
