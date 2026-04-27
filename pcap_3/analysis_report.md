@@ -1,6 +1,5 @@
 ## 2026-01-31 - TRAFFIC ANALYSIS EXERCISE
-Link to the exercise:
-- https://www.malware-traffic-analysis.net/2026/01/31/index.html
+Link to the exercise: https://www.malware-traffic-analysis.net/2026/01/31/index.html
 
 ## ENVIRONMENT:
 - LAN segment range: 10.1.21[.]0/24 (10.1.21[.]0 through 10.1.21[.]255)
