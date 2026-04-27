@@ -44,4 +44,4 @@ Stealer?
 
 - The domain from 153.92.1[.]49 that triggered the alert for Lumma Stealer is whitepepper.su
 
-Further Analysis
+## Further Analysis
