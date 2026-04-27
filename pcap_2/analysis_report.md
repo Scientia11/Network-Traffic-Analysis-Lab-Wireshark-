@@ -33,7 +33,7 @@ For this exercise, answer the following questions for your incident report:
 - What is the full name of the user from the user account?
 
 
-## ANSWERS:
+## Incident Report
  Victim Details:
 - IP address: 10.1.28[.]88
 - Host name: DESKTOP-TEYQ2NR
