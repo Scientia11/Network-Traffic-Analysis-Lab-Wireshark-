@@ -44,3 +44,10 @@ Stealer?
 - The domain from 153.92.1[.]49 that triggered the alert for Lumma Stealer is whitepepper.su
 
 ## Further Analysis
+- There was a GET request from the the infected client to 153.92.1[.]49 that downloaded an HTML file containing JavaScript from the whitepepper[.]su domain
+
+- This file performed an extensive and sophisticated browser/device fingerprinting (Canvas, WebGL, AudioContext, WebRTC, system properties, plugins). All collected data is then systematically bundled and exfiltrated via an HTTP POST request, demonstrating a clear and intentional attempt at unauthorized data theft and tracking.
+
+file hash: a1ee2e3055dc4ce0d60eb6c2c8a655e705b3607bd33d65794e67adf22a2a0124
+
+- The whitepepper[.]su domain from 153.92.1[.]49 has been flagged by .... security venders on virus total as malicious
