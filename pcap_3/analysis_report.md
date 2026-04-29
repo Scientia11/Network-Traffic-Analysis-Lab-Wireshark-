@@ -50,4 +50,4 @@ Stealer?
 
 file hash: a1ee2e3055dc4ce0d60eb6c2c8a655e705b3607bd33d65794e67adf22a2a0124
 
-- The whitepepper[.]su domain from 153.92.1[.]49 has been flagged by .... security venders on virus total as malicious
+- The whitepepper[.]su domain from 153.92.1[.]49 has been flagged by 22 security venders on virus total as malicious
