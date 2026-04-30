@@ -24,3 +24,15 @@ For this exercise, answer the following questions for your incident report:
 - The host name of the infected Windows client is DESKTOP-TEYQ2NR
 - The user account name from the infected Windows client is brolf
 - The full user account name from the infected Windows client is Becka Rolf
+
+## Further Analysis
+- The communication between the infected client and the host at  45.131.214[.]85 is  using http over port 443
+post
+Request URI: http://45.131.214.85/fakeurl.htm
+http over port 443
+url contains an ip instead of a domain name
+file hash= 2b69346572041eefe558a82b58d654237e087ce9ab4e0876254a40a8954279a9
+
+
+
+
