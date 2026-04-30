@@ -1,5 +1,7 @@
+## 2026-02-28 - TRAFFIC ANALYSIS EXERCISE
+Link to the exercise: https://www.malware-traffic-analysis.net/2025/06/13/index.html
 
-- LAN SEGMENT DETAILS FROM THE PCAP
+## ENVIRONMENT:
 - LAN segment range:  10.6.13[.]0/24   (10.6.13[.]0 through 10.6.13[.]255)
 - Domain:  massfriction[.]com
 - Active Directory (AD) domain controller:  10.6.13[.]3 - WIN-DQL4WFWJXQ4
