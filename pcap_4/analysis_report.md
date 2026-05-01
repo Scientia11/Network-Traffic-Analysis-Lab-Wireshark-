@@ -27,7 +27,7 @@ For this exercise, answer the following questions for your incident report:
 
 ## Further Analysis
 - The was a communication between the infected client and the host at 45.131.214[.]85 using http(unencrypted protocol) over port 443(encrypted port)
-- There was a POST request from the infected client to the host at  45.131.214[.]85 using the URL hxxp[://]45[.]131[.]214[.]85/fakeurl[.]htm  which has an IP address as the domain name.
+- There was a POST request from the infected client to the host at  45.131.214[.]85 using the URL hxxp[://]45[.]131[.]214[.]85/fakeurl[.]htm  which has an IP address as the domain name and flagged by 14 security vendors on virustotal as malicious.
 - There POST request from the infected client to the host at 45.131.214[.]85 exfiltrated an encoded file with the name fakeurl.htm
 - file hash: 2b69346572041eefe558a82b58d654237e087ce9ab4e0876254a40a8954279a9
 
