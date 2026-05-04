@@ -55,11 +55,11 @@ For this exercise, answer the following questions for your incident report:
 
 Running the script in the above file downloads the following other files:
 
-- File name: 29842.ps1,
+1. File name: 29842.ps1,
   SHA256 hash: b8ce40900788ea26b9e4c9af7efab533e8d39ed1370da09b93fcf72a16750ded  
                                                                                                               
-- File name: 1517096937, SHA256 hash: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5                                                                                                            
-- File name: TeamViewer, SHA256 hash: 904280f20d697d876ab90a1b74c0f22a83b859e8b0519cb411fda26f1642f53e  
+2. File name: 1517096937, SHA256 hash: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5                                                                                                            
+3. File name: TeamViewer, SHA256 hash: 904280f20d697d876ab90a1b74c0f22a83b859e8b0519cb411fda26f1642f53e  
                                                                                                               
-- File name: Teamviewer_Resource_fr, SHA256 hash: 9634ecaf469149379bba80a745f53d823948c41ce4e347860701cbdff6935192 
+4. File name: Teamviewer_Resource_fr, SHA256 hash: 9634ecaf469149379bba80a745f53d823948c41ce4e347860701cbdff6935192 
 
