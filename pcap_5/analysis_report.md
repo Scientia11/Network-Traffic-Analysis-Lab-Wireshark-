@@ -43,4 +43,12 @@ For this exercise, answer the following questions for your incident report:
    3. 45.125.66.252
 
 ## Further Analysis
+- There was an initial GET request from the infected client via the URL  hxxp[://]5[.]252[.]153[.]241/api/file/get-file/264872  that downloaded a file which contains a script
+    1. File name: 264872
+    2. SHA256 hash: c74123dbccded43fda61651e102750b041d4c3af6fda88cd6436f9276653e103
+    3. File size: 417 bytes
+    4. File type: ASCII text, with CRLF line terminators
 
+- The GET request URL has an IP address as the domain name instead of an actual name
+
+- The above downloaded file has been flagged by 22 security vendors as malicious
